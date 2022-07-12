@@ -1,5 +1,7 @@
 ## <samp> Hi there, This is my project <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
+CUMA REUPLOAD BANH ☝️😅
+
 <p align="center">
 <img src="https://avatars.githubusercontent.com/PitoDevID" height="180" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
@@ -25,7 +27,7 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > git clone https://github.com/PitoDevID/bot-bug-md
-> cd bot-bug-md
+> cd namabot
 > npm start
 ```
 </details>
